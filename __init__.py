@@ -1,0 +1,2 @@
+# Files named __init__.py are used to mark directories on disk as Python package directories. If you have the files
+# If you remove the __init__.py file, Python will no longer look for submodules inside that directory, so attempts to import the module will fail.
